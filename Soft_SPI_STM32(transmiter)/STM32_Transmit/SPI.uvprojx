@@ -340,7 +340,7 @@
               <MiscControls></MiscControls>
               <Define></Define>
               <Undefine></Undefine>
-              <IncludePath></IncludePath>
+              <IncludePath>D:\MY GOAL\Embedded automotive\Soft_SPI\Soft_SPI_STM32(transmiter)\STM32_Transmit</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
